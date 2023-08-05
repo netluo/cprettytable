@@ -2,8 +2,8 @@
 // Created by luocx on 4/26/23.
 //
 
-#ifndef MYSQLSCAN_PRETTYTABLE_H
-#define MYSQLSCAN_PRETTYTABLE_H
+#ifndef C_PRETTYTABLE_H
+#define c_PRETTYTABLE_H
 
 // 定义表格行结构体
 typedef struct row {
