@@ -3,7 +3,7 @@
 //
 
 #ifndef C_PRETTYTABLE_H
-#define c_PRETTYTABLE_H
+#define C_PRETTYTABLE_H
 
 // 定义表格行结构体
 typedef struct row {
